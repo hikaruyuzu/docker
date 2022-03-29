@@ -1,0 +1,8 @@
+# melihat semua image yang tersedia di docker daemon
+# docker image ls 
+
+# download image, misal insntall image redis, :tag-version
+# docker image pull redis:latest
+
+# menghapus image
+# docker image rm nameimage:tag
